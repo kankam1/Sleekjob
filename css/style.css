@@ -1,0 +1,97 @@
+.kkb-center {
+	color: orangered;
+	text-align: center;
+	align-items: center;
+	height: 100%;
+	background-color: rgba(3, 24, 25, 0.79);
+}
+.kim {
+	height: 650px;
+	margin-top: -135px;
+	background-size: cover;
+}
+h1 {
+    margin-top: 217px;
+    margin-bottom: 15px;
+    font-size: 48px;
+    color: orangered;
+    font-style: italic;
+    font-family: initial;
+}
+.text h3 {
+    font-size: 209%;
+}
+.btn-lg {
+    font-size: 23px;
+}
+.logo {
+    width: 325px;
+    height: 180px;
+    margin-top: -31px;
+    margin-left: 62px;
+}
+.footer {
+	margin-bottom:0; 
+	padding: 35px;
+	color: orangered;
+	background-color: #032829;
+}
+h5 {
+	text-align: center;
+	margin-left: 14px;
+}
+.container-fluid {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+.homenavbar {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.top-nav-links {
+    padding-top: 56px;
+    font-weight: bold;
+    font-size: 13px;
+    display: block;
+    margin-right: 76px;
+}
+.icons ul > li {
+	list-style: none;
+	float: left;
+}
+.icons ul > li > a {
+	padding-left: 35px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #eee;
+}
+.navbar-default .navbar-nav .active > a {
+    background-color: transparent;
+    border: 2px solid #eee;
+    color: #eee;
+}
+.navbar-nav >li > a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.point {
+	background-color:#032829; 
+}
+.navbar {
+    margin-bottom: 38px;
+}
+h4 {
+	color: #115c80;
+	font-size: 25px;
+}
+.form-inline .form-control {
+	width: 760px;
+}
+.login {
+	margin-top:115px ;
+	margin-bottom: 50px;
+}
